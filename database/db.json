@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "todo": "Buy groceries",
+      "completed": false,
+      "description": "need eggs, oatmeal, and milk",
+      "id": 1
+    },
+    {
+      "todo": "Go to DMV",
+      "completed": false,
+      "description": "get new license and real id",
+      "id": 2
+    }
+  ]
+}
