@@ -20,7 +20,11 @@ module.exports = {
           loader: 'babel-loader',
           options: {
             plugins: [
-              '@babel/plugin-transform-react-jsx'
+              '@babel/plugin-transform-react-jsx',
+              '@babel/plugin-proposal-class-properties',
+              {
+                'loose': true
+              }
             ]
           }
         }
