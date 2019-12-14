@@ -5,12 +5,12 @@ const initialState = {
   todos: [],
   // to store the single todo
   todo: {}
-}
+};
 
 // action must include type
 export default (state = initialState, action) => {
-  switch(action.type) {
+  switch (action.type) {
     default:
       return state;
   }
-}
+};
