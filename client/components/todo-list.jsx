@@ -18,7 +18,7 @@ export default class TodoList extends Component {
           </tr>
         </thead>
         <tbody>
-          {/* {this.buildTodos} */}
+          {this.buildTodos()}
         </tbody>
       </Table>
     );
