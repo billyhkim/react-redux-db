@@ -21,10 +21,7 @@ module.exports = {
           options: {
             plugins: [
               '@babel/plugin-transform-react-jsx',
-              '@babel/plugin-proposal-class-properties',
-              {
-                'loose': true
-              }
+              '@babel/plugin-proposal-class-properties'
             ]
           }
         }
