@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 export default class header extends Component {
   render() {
@@ -6,6 +6,6 @@ export default class header extends Component {
       <h1>
         React-Redux Todos
       </h1>
-    )
+    );
   }
 }
