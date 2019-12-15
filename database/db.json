@@ -11,6 +11,24 @@
       "completed": false,
       "description": "get new license and real id",
       "id": 2
+    },
+    {
+      "todo": "Try 3",
+      "description": "how does id increment",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "todo": "Try 4",
+      "description": "this is cool!",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "todo": "Try 5",
+      "description": "what if i delete from the middle?",
+      "completed": true,
+      "id": 6
     }
   ]
 }
